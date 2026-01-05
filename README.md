@@ -1,111 +1,37 @@
-# 👋 Hi, I’m Kasau (Michael Kasau)
+<h1 align="center">Hi 👋, I'm Kasau Michael</h1>
+<h3 align="center">🌐 Network Engineer | 🔐 Cybersecurity Engineer | 🤖 Automation Builder</h3>
 
-🌐 Network Engineer | 🔐 Cybersecurity Engineer | 🤖 Automation Builder  
-🇰🇪 Kenya
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kitoi1&label=Profile%20views&color=0e75b6&style=flat" alt="kitoi1" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kitoi1" alt="kitoi1" /></a> </p>
 
-## 🧠 About Me
+<p align="left"> <a href="https://twitter.com/kasaufx" target="blank"><img src="https://img.shields.io/twitter/follow/kasaufx?logo=twitter&style=for-the-badge" alt="kasaufx" /></a> </p>
 
-I’m a **Network & Cybersecurity Engineer** with a strong focus on **secure infrastructure, ethical hacking, and automation**.
+- 🔭 I’m currently working on **LFS**
 
-I design, deploy, and secure networks **end-to-end** — from routing and switching to firewalls, VPNs, and application-layer security.  
-Beyond infrastructure, I actively build **custom security tools**, scanners, and automation frameworks to identify and exploit vulnerabilities **responsibly**.
+- 🌱 I’m currently learning **the linux kernel**
 
-I believe in:
-- 🔧 Building over theory  
-- 🤖 Automating everything possible  
-- 🛡️ Security by design, not as an afterthought  
+- 👯 I’m looking to collaborate on **LFS**
 
----
+- 💬 Ask me about **network security**
 
-## 🌍 Networking Expertise
+- 📫 How to reach me **kasaufx@gmail.com**
 
-### 🔌 Core Networking
-- TCP/IP, OSI Model
-- Subnetting & IP Addressing
-- VLANs, Trunking, Inter-VLAN Routing
-- LAN / WAN / WLAN
-- DHCP, DNS, NAT
-- Routing & Switching fundamentals
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kasaufx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasaufx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kasau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasau" height="30" width="40" /></a>
+<a href="https://fb.com/kasau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasau" height="30" width="40" /></a>
+<a href="https://instagram.com/_m.kidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m.kidi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kasauthegamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasauthegamer" height="30" width="40" /></a>
+<a href="https://discord.gg/infosecke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="infosecke" height="30" width="40" /></a>
+</p>
 
-### 🌐 VPN & Connectivity
-- Site-to-Site VPNs
-- Remote Access VPNs
-- Secure tunneling & encryption
-- Network segmentation
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitoi1&show_icons=true&locale=en&layout=compact" alt="kitoi1" /></p>
 
-## 🔐 Cybersecurity & Ethical Hacking
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitoi1&show_icons=true&locale=en" alt="kitoi1" /></p>
 
-- Web Application Security (OWASP Top 10)
-- XSS, SQL Injection, RCE, CSRF, IDOR
-- CVE scanning & exploitation
-- Network security & hardening
-- Bug Bounty methodologies
-- Recon & asset discovery
-
----
-
-## 🤖 Automation, Systems & Dev
-
-- Python (security scanners, automation, GUIs)
-- Bash (installers, Linux automation)
-- Linux server administration
-- Docker (vulnerable labs & testing)
-- Git & GitHub
-
----
-
-## 🧰 Tools & Technologies
-
-### 🛠️ Networking & Security
-- Cisco, MikroTik, Ubiquiti
-- pfSense / OPNsense
-- iptables / nftables
-- Wireshark, tcpdump
-- Nmap, Netcat, RustScan
-- Nuclei, Amass, Subfinder, Httpx, Dnsx
-- Burp Suite
-
----
-
-## 🚀 Featured Projects
-
-🔐 **KasauSec**  
-> An open-source Swiss Army Knife for web vulnerability scanning and exploitation.
-
-🧪 **VulnHunter Pro**  
-> Advanced Bash-based vulnerability & CVE scanner.
-
-🕷️ **KasauXSSAdvancedTester**  
-> Multi-threaded XSS testing tool with GUI support.
-
-🌐 **InfoSec Kenya**  
-> Cybersecurity awareness & community platform.
-
-🧬 **Auto Vulnerable Lab Generator**  
-> Docker-based vulnerable environments for ethical hacking practice.
-
----
-
-## 📈 Current Focus
-
-- Secure network design & segmentation
-- Network automation & monitoring
-- Advanced bug bounty workflows
-- Scalable security tooling
-- Cloud & hybrid network security
-
----
-
-## 🤝 Let’s Connect
-
-- 💻 GitHub: https://github.com/Kasau
-- 🌍 Location: Kenya
-- 📫 Open to collaboration, security research & engineering roles
-
----
-
-⚠️ *All projects and tools are created strictly for educational and ethical purposes.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitoi1&" alt="kitoi1" /></p>
