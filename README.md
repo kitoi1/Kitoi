@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kasau (Michael Kasau) and I'm a Network & Cybersecurity Engineer from Kenya 🇰🇪</p>
+<p align="left">My name is Michael Kasau and I'm a Network & Cybersecurity Engineer from Kenya 🇰🇪</p>
 
 ###
 
